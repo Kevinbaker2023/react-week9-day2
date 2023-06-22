@@ -12,10 +12,13 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 .post-title {
     text-align: center;
+    font-size: 1.5rem;
+    text-decoration: underline;
 }
 
 .title{
     text-align: center;
+    text-decoration: underline;
 }
 
 .image {

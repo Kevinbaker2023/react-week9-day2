@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import { BsHeartFill } from 'react-icons/bs'
-import { BsHeart } from 'react-icons/bs'
+import { BsHeartFill, BsHeart } from 'react-icons/bs'
 import './LikeBtn.css'
 
 const LikeBtn = () => {
