@@ -1,0 +1,23 @@
+#cards {
+    width: 25rem;
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-radius: 25px;
+}
+.like-btn {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.post-title {
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.image {
+    height: 20rem;
+}
